@@ -143,7 +143,7 @@
         "unreachable": "#a9afbcff",
         "unreachable.background": "#8389941a",
         "unreachable.border": "#464b57ff",
-        "warning": "#fef184ff",
+        "warning": "#FFD817FF",
         "warning.background": "#dec1841a",
         "warning.border": "#5d4c2fff",
         "players": [
@@ -215,7 +215,7 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#F5E8B0FF",
+            "color": "#F6D0B1FF",
             "font_style": null,
             "font_weight": null
           },
@@ -255,7 +255,7 @@
             "font_weight": null
           },
           "label": {
-            "color": "#FF0000FF",
+            "color": "#B5E8FFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -375,7 +375,7 @@
             "font_weight": null
           },
           "text.literal": {
-            "color": "#CE9178FF",
+            "color": "#81DE73FF",
             "font_style": null,
             "font_weight": null
           },
